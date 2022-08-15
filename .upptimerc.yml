@@ -13,7 +13,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.techphantoms.co
-  baseUrl: /website-status
+  # baseUrl: /website-status
   logoUrl: https://raw.githubusercontent.com/Tech-Phantoms/community/main/assets/logo-750px.png
   name: "Status for Tech Phantoms' website"
   introTitle: "**Tech Phantoms** is an open-source community which focuses on tech-hiring, awareness, UX design, and so much more."
